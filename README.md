@@ -1,5 +1,5 @@
 # project-scaffolder
-`project-scaffolder` is a modular Ruby-based command-line tool designed to quickly initialize new software projects from predefined templates. It provides consistent directory structures, essential starter files, optional Git initialization, and a dedicated README generator for both new and existing projects. The tool is built with clean architecture, well-separated responsibilities, and a full RSpec test suite for maintainability and reliability.
+`project-scaffolder` is a modular Ruby-based command-line tool designed to quickly initialize new software projects from predefined templates. It provides consistent directory structures, essential starter files, optional Git initialization, and a dedicated README generator for both new and existing projects. The tool is built with a RSpec test suite for maintainability and reliability.
 
 ## Features
 - Generate new projects using predefined templates:
